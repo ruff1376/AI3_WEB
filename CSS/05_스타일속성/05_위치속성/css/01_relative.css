@@ -9,7 +9,7 @@ h1 { text-align: center; }
 }
 
 .container div {
-    margin:  auto;
+    margin: auto;
     width: 200px;
     height: 200px;
     box-sizing: border-box;
